@@ -29,13 +29,13 @@
 ### 📬 Vamos trocar ideias sobre tecnologia, me chama nas redes abaixo!
 
 <div>  
-  <a href="https://instagram.com/rogermorony" target="_blank">
+  <a href="https://www.instagram.com/rogermmorony" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:rogeru4s@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/roger-martins-3ab043121/" target="_blank">
+  <a href="https://www.linkedin.com/in/rogermorony/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
