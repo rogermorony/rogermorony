@@ -37,10 +37,7 @@
 
 ### 📌 Projetos em Destaque
 
-> ⚠️ *Atualize esta seção com seus projetos reais!*
-
-- 🔗 [Nome do Projeto](https://github.com/rogermorony) — Breve descrição do que ele faz
-- 🔗 [Nome do Projeto](https://github.com/rogermorony) — Breve descrição do que ele faz
+- 🔗 [Gália Consultoria e Treinamentos](https://github.com/rogermorony) — Breve descrição do que ele faz
 
 ---
 
