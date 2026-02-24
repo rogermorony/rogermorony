@@ -1,11 +1,10 @@
 # Roger Martins
 
-Front-End Developer  
-JavaScript • HTML • CSS  
+Front-End Developer • UI Focused
 
 ---
 
-## Stack
+## Core Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
