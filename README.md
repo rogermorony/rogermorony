@@ -16,6 +16,7 @@ Front-End Developer • UI Focused
 ## Featured Project
 
 [Gália Consultoria e Treinamentos](https://github.com/rogermorony)
+
 Institutional website focused on clarity, structure and responsiveness.
 
 ---
