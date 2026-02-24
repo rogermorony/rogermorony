@@ -1,41 +1,36 @@
-## Olá, eu sou o Roger Martins! 👋
+# Roger Martins
 
-🚀 Desenvolvedor apaixonado por tecnologia e em constante aprendizado.  
-💻 Focado em desenvolvimento web com JavaScript, HTML e CSS.  
-🎯 Sempre em busca de novos desafios e projetos interessantes!
-
-![Visitors](https://komarev.com/ghpvc/?username=rogermorony&color=blueviolet)
+Desenvolvedor focado em construção web moderna.  
+JavaScript • HTML • CSS  
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## Sobre
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div>
+Desenvolvedor apaixonado por tecnologia e em constante evolução.  
+Foco em desenvolvimento front-end com atenção a estrutura, performance e experiência do usuário.  
+Sempre em busca de novos desafios e projetos que elevem o nível.
 
 ---
 
-### 📌 Projetos em Destaque
+## Tecnologias
 
-- 🔗 [Gália Consultoria e Treinamentos](https://github.com/rogermorony) — Breve descrição do que ele faz
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📬 Vamos trocar ideias sobre tecnologia, me chama nas redes abaixo!
+## Projeto em Destaque
 
-<div>  
-  <a href="https://www.instagram.com/rogermmorony" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:rogeru4s@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/rogermorony/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+[Gália Consultoria e Treinamentos](https://github.com/rogermorony)
+
+---
+
+## Contato
+
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rogermmorony)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogeru4s@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogermorony/)
